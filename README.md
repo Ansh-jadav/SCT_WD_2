@@ -20,7 +20,7 @@ A simple and interactive stopwatch web application built with HTML, CSS, and Jav
 
 ## Preview
 
-![Stopwatch Preview](preview.png)
+![Stopwatch Preview](stop_watch_demo_image.jpg)
 
 ## Getting Started
 
